@@ -11,9 +11,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-Navigation:
-- title: GMaps in Search
- url: https://barnabashub.github.io/gmaps-redirect/
+#Navigation:
+#- title: GMaps in Search
+# url: https://barnabashub.github.io/gmaps-redirect/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
