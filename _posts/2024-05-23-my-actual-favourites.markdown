@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tech Adventures: My Favorite Development Technologies and Future Blog Topics"
+title: "My actual fav technologys"
 date: 2024-05-29
 categories: tech
 ---
