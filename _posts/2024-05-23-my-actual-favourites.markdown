@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Tech Adventures: My Favorite Development Technologies and Future Blog Topics"
-date: 2024-05-23
+date: 2024-05-29
 categories: tech
 ---
 
-Welcome to my tech blog! If you’re a fellow enthusiast of cutting-edge development technologies, you’re in the right place. In this post, I’ll introduce you to some of my favorite tools and frameworks that I'll be writing about in future posts. Let's dive into the techie goodness and discover what makes each of these technologies so fascinating!
+Welcome to my website! In this post, I’ll introduce you to some of my favorite tools and frameworks that I'll be writing about in future posts. Let's dive into the techie goodness and discover what makes each of these technologies so fascinating!
 
 ## Docker
 Docker is a platform that uses containerization to deliver software in packages called containers. Containers are lightweight, fast, and ensure consistency across different environments.
@@ -35,10 +35,6 @@ SQLite is the most widely deployed database engine in the world, with billions o
 Telegram is a cloud-based instant messaging app known for its speed and security.
 Telegram's API is so developer-friendly that it’s used to build bots, automate tasks, and even create entire applications within the platform.
 
-## GitHub Pages
-GitHub Pages allows you to host static websites directly from a GitHub repository, making it a great choice for personal and project pages.
-With GitHub Pages, you can deploy a site for free with a custom domain and SSL certificate, straight from your GitHub repo.
-
 ## CI/CD
 Continuous Integration and Continuous Deployment (CI/CD) are practices that enable developers to integrate code changes frequently and deploy them automatically.
 CI/CD pipelines can drastically reduce the time it takes to get new features and fixes to users, making development more agile and responsive.
@@ -51,21 +47,9 @@ Flask is called a "micro" framework because it keeps the core simple but extensi
 Jupyter Notebook is an open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text.
 Jupyter supports over 40 programming languages, including Python, R, and Julia, making it a versatile tool for data science and research.
 
-## PythonAnywhere
-PythonAnywhere is an online Integrated Development Environment (IDE) and web hosting service based on Python.
-With PythonAnywhere, you can start coding in your browser without needing to install any software on your local machine.
-
-## OpenCV
-OpenCV is an open-source computer vision and machine learning software library that includes hundreds of algorithms.
-OpenCV is used in a variety of applications, from face detection and recognition to advanced robotics and drone technology.
-
 ## Jekyll
 Jekyll is a static site generator that transforms plain text into static websites and blogs.
 Jekyll is the engine behind GitHub Pages, allowing you to build and deploy your site with ease directly from your GitHub repository.
-
-## Node.js
-Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine, enabling server-side scripting.
-Node.js allows developers to use JavaScript for both front-end and back-end development, making it possible to build full-stack applications with a single language.
 
 ## Gunicorn
 Gunicorn (Green Unicorn) is a Python WSGI HTTP server for UNIX, known for its simplicity, reliability, and high performance.
